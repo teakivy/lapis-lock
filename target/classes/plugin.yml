@@ -1,0 +1,8 @@
+name: LapisLock
+version: '1.0.0'
+main: me.teakivy.lapisLock.LapisLock
+api-version: '1.21'
+prefix: LapisLock
+load: STARTUP
+authors: [ TeakIvy ]
+description: Keep your Lapis Lazuli in the Enchanting Table when it's closed
